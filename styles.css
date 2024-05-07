@@ -1,0 +1,62 @@
+#indira {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image: url(imagenes/indirap.jpg);
+    background-position: 100%;
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(225, 0, 255) ;
+    float: left;
+}
+
+#umek {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image: url(imagenes/umek.jpg);
+    background-size: 500px 400px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(255, 0, 0) ;
+    float: left;
+
+}
+
+#amelie {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image: url(imagenes/ameliel.jpg);
+    background-position: 50%50%;
+    background-size: 470px 400px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(46, 209, 133) ;
+    float: left;
+}
+
+#reinier{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image: url(imagenes/reinierz.jpg);
+    background-position: 50%50%;
+    background-size: 470px 400px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(194, 0, 253) ;
+    float: left;
+}
+
+@font-face {
+    font-family: fuentechno;
+    src: url(fonts/techno.ttf)
+}
+
+h1 {
+    font-family: fuentechno;
+    text-align: center;
+    font-size: 100px;
+}
